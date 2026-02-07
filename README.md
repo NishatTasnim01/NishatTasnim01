@@ -9,7 +9,7 @@
 </p>
 
 <p>
-I’m Nishat, a dedicated and passionate learner with a strong focus on AI and research. As a student in the Department of Computer Science and Engineering at the University of Asia Pacific, I am driven by a deep curiosity to explore and master a broad spectrum of technologies. My academic pursuits are complemented by active involvement in innovative AI-based research projects. Beyond programming, I am skilled in creating visually compelling graphic designs and crafting insightful scientific content. I am currently enhancing my expertise in languages and technologies such as C, C++, Java, Python, SQL, as well as in machine learning, deep learning, and natural language processing. I thrive on the challenges presented by these fields and excel in solving complex problems. I am enthusiastic about advancing my contributions and deepening my expertise through research assistant opportunities, particularly under the guidance of esteemed professionals on cutting-edge projects. 🔍
+I’m Nishat, a dedicated and passionate learner with a strong focus on AI and research. As a graduate from the Department of Computer Science and Engineering at the University of Asia Pacific, I am driven by a deep curiosity to explore and master a broad spectrum of technologies. My academic pursuits are complemented by active involvement in innovative AI-based research projects. Beyond programming, I am skilled in creating visually compelling graphic designs and crafting insightful scientific content. I am currently enhancing my expertise in languages and technologies such as C, C++, Java, Python, SQL, as well as in machine learning, deep learning, and natural language processing. I thrive on the challenges presented by these fields and excel in solving complex problems. I am enthusiastic about advancing my contributions and deepening my expertise through research assistant opportunities, particularly under the guidance of esteemed professionals on cutting-edge projects. 🔍
 </p>
 
 <!--
@@ -31,9 +31,9 @@ I’m Nishat, a dedicated and passionate learner with a strong focus on AI and r
 
 
 ## 👩🏻‍💻 Who am I? (Breifly):
-- 🏫: I am a `Student` at Department of CSE at University of Asia Pacific.
+- 🏫: I am a `Graduate` from Department of CSE at University of Asia Pacific.
 - 👩🏻‍🔬: I'm very passionate about `Research`, `AI`, `HCI`, `ML`, `DL`, `NLP` etc.
-- 💻: I love `Graphics Design` and writing `Scientific Content`, `Sci-Fi`.
+- 💻: I love writing `Scientific Content`, `Sci-Fi`.
 - 🧭: Always `exploring` and `learning new things`.
 
 <br>
