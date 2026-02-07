@@ -45,7 +45,7 @@ I’m Nishat, a dedicated and passionate learner with a strong focus on AI and r
 <br> -->
 
 
-### 🔍 Find me elsewhere
+<!--  ### 🔍 Find me elsewhere
 <p align="center">
   <a href="https://www.codechef.com/users/nishat149">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px; color: blue;">
@@ -77,6 +77,7 @@ I’m Nishat, a dedicated and passionate learner with a strong focus on AI and r
     <img src="https://github.com/smashik716/Icons/blob/main/Thinkercad.svg" alt="TinkerCad" style="vertical-align:top; margin:4px; color: gray;">
 </a>
 </p>
+-->
 
 ### 📩 Contact With Me:
 <p align="center">
@@ -91,7 +92,7 @@ I’m Nishat, a dedicated and passionate learner with a strong focus on AI and r
   <a href="https://www.facebook.com/profile.php?id=100057417531922">
     <img src="https://github.com/smashik716/Icons/blob/main/Facebook.svg?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook">
   </a>
-</p>
+</p> 
 
 
 ## 🛠️ My Skills
