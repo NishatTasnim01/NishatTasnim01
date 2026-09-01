@@ -8,20 +8,20 @@
 
 <br/>
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge\&logo=orcid\&logoColor=white)](https://orcid.org/0009-0009-0677-5708)
-[![Scopus](https://img.shields.io/badge/Scopus-E97132?style=for-the-badge\&logo=scopus\&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=59254863900)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://bd.linkedin.com/in/nishat-ts)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://NishatTasnim01.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NishatTasnim01)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-0677-5708)
+[![Scopus](https://img.shields.io/badge/Scopus-E97132?style=for-the-badge&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=59254863900)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/nishat-ts)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://NishatTasnim01.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishatTasnim01)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NishatTasnim01\&color=2E86DE\&style=flat-square\&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=NishatTasnim01&color=2E86DE&style=flat-square&label=Profile+Views)
 
 </div>
 
 ## About
 
-I am a **Master’s student in Computer Science & Engineering** and a researcher working at the intersection of Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, and Federated Learning. My research focuses on developing **privacy-preserving and intelligent AI systems**, particularly for healthcare applications.
+I am a **Master's student in Computer Science & Engineering** and a researcher working at the intersection of Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, and Federated Learning. My research focuses on developing **privacy-preserving and intelligent AI systems**, particularly for healthcare applications.
 
 * 🎓 **M.Sc. in Computer Science & Engineering** — University of Asia Pacific *(In Progress)*
 * 🎓 **B.Sc. in Computer Science & Engineering** — University of Asia Pacific *(CGPA 3.93/4.00, Joint 6th of 114 graduates)*
@@ -50,28 +50,28 @@ I am a **Master’s student in Computer Science & Engineering** and a researcher
 ## Technical Skills
 
 <br>
-<img align="right" alt="Coding" width="300" src="https://github.com/NishatTasnim01/NishatTasnim01/blob/main/python_nishat.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/NishatTasnim01/NishatTasnim01/main/python_nishat.gif">
 
 <div align="center">
 
 **Languages** <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **AI / ML Frameworks** <br>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square\&logo=apachespark\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 **Data & Tools** <br>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=plotly\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </div>
 
@@ -108,7 +108,7 @@ I am a **Master’s student in Computer Science & Engineering** and a researcher
 ## Publications
 
 | Publication                                                                                                                                                                                                                                                                                                                  | Type                            | Venue / Date |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------ |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------ |
 | [Enhancing Gall Bladder Cancer Detection by Privacy-Preserving Federated Learning: A Comprehensive CSV-Based Classification Approach](https://www.researchgate.net/publication/397168422_Enhancing_Gall_Bladder_Cancer_Detection_by_Privacy-Preserving_Federated_Learning_A_Comprehensive_CSV-Based_Classification_Approach) | Book Chapter                    | Nov 2025     |
 | [Transforming Healthcare Analytics: Federated Learning for Privacy-Preserving Liver Lesion Detection and Classification](https://www.researchgate.net/publication/397168034_Transforming_Healthcare_Analytics_Federated_Learning_for_Privacy-Preserving_Liver_Lesion_Detection_and_Classification)                           | Book Chapter                    | Nov 2025     |
 | [Exploring Feature Selection Techniques in Predicting Indian Household Electricity Consumption](https://www.researchgate.net/publication/394373689_Exploring_Feature_Selection_Techniques_in_Predicting_Indian_Household_Electricity_Consumption)                                                                            | Book Chapter                    | Aug 2025     |
@@ -132,24 +132,26 @@ I am a **Master’s student in Computer Science & Engineering** and a researcher
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://bd.linkedin.com/in/nishat-ts)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nishat.tasnim@uap-bd.edu)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/nts.nishat.tasnim)
-[![Instagram](https://img.shields.io/badge/Instagram-E4401?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/nishat.tasnim.s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/nishat-ts)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishat.tasnim@uap-bd.edu)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nts.nishat.tasnim)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nishat.tasnim.s)
 
 </div>
+
+<br>
 
 ## Research Profiles
 
 <div align="center">
 
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge\&logo=orcid\&logoColor=white)](https://orcid.org/0009-0009-0677-5708)
-[![Scopus](https://img.shields.io/badge/Scopus-E97132?style=for-the-badge\&logo=scopus\&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=59254863900)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge\&logo=researchgate\&logoColor=white)](https://www.researchgate.net/profile/Nishat-Tasnim-35)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-0677-5708)
+[![Scopus](https://img.shields.io/badge/Scopus-E97132?style=for-the-badge&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=59254863900)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nishat-Tasnim-35)
 
 </div>
 
 <div align="center">
-  <img src="https://github.com/0xAshik/GitubSVGs/blob/main/grid-snake.svg" alt="snake" width="355"/>
+  <img src="https://raw.githubusercontent.com/0xAshik/GitubSVGs/main/grid-snake.svg" alt="snake" width="355"/>
 </div>
