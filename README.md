@@ -8,13 +8,14 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/nishat-ts)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-0677-5708)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nishat-Tasnim-35)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishat.tasnim@uap-bd.edu)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge\&logo=orcid\&logoColor=white)](https://orcid.org/0009-0009-0677-5708)
+[![Scopus](https://img.shields.io/badge/Scopus-E97132?style=for-the-badge\&logo=scopus\&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=59254863900)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://bd.linkedin.com/in/nishat-ts)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://NishatTasnim01.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NishatTasnim01)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NishatTasnim01&color=2E86DE&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=NishatTasnim01\&color=2E86DE\&style=flat-square\&label=Profile+Views)
 
 </div>
 
@@ -30,15 +31,19 @@ I am a Computer Science & Engineering graduate from the **University of Asia Pac
 
 <br>
 
+
 ## Research Focus
 
 <div align="center">
 
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-2E86DE?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-2E86DE?style=flat-square)
 ![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-2E86DE?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2E86DE?style=flat-square)
-![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-2E86DE?style=flat-square)
+![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-2E86DE?style=flat-square)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-2E86DE?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-2E86DE?style=flat-square)
 ![Privacy-Preserving AI](https://img.shields.io/badge/-Privacy--Preserving%20AI-2E86DE?style=flat-square)
-![Healthcare AI](https://img.shields.io/badge/-Healthcare%20AI-2E86DE?style=flat-square)
 
 </div>
 
@@ -114,19 +119,16 @@ I am a Computer Science & Engineering graduate from the **University of Asia Pac
 | [Exploring Feature Selection Techniques in Predicting Indian Household Electricity Consumption](https://www.researchgate.net/publication/394373689_Exploring_Feature_Selection_Techniques_in_Predicting_Indian_Household_Electricity_Consumption) | Book Chapter | Aug 2025 |
 | [From Centralization to Decentralization: Blockchain's Role in Transforming Social Media Platforms](https://www.researchgate.net/publication/390852939_From_Centralization_to_Decentralization_Blockchain's_Role_in_Transforming_Social_Media_Platforms) | Journal Article — *IEEE Access* | Jan 2025 |
 
-📊 4 publications · 14 citations · 11 reads *(per ResearchGate)*. Full list with co-authors available on [ResearchGate](https://www.researchgate.net/profile/Nishat-Tasnim-35) and [Google Scholar](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en).
+📊 4 publications · 14 citations. Full list with co-authors available on [ResearchGate](https://www.researchgate.net/profile/Nishat-Tasnim-35) and [Google Scholar](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en).
 
 <br>
 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NishatTasnim01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia&count_private=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatTasnim01&theme=radical" alt="GitHub Streak" width="500"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NishatTasnim01&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=transparent&count_private=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatTasnim01&theme=transparent" alt="GitHub Streak" width="355"/>
 </div>
 
 <br>
@@ -135,18 +137,24 @@ I am a Computer Science & Engineering graduate from the **University of Asia Pac
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/nishat-ts)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishat.tasnim@uap-bd.edu)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nts.nishat.tasnim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://bd.linkedin.com/in/nishat-ts)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nishat.tasnim@uap-bd.edu)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/nts.nishat.tasnim)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/nishat.tasnim.s)
 
-**Research Profiles:**
+</div>
 
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-0677-5708)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nishat-Tasnim-35)
+## Research Profiles
+
+<div align="center">
+
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge\&logo=orcid\&logoColor=white)](https://orcid.org/0009-0009-0677-5708)
+[![Scopus](https://img.shields.io/badge/Scopus-E97132?style=for-the-badge\&logo=scopus\&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=59254863900)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge\&logo=researchgate\&logoColor=white)](https://www.researchgate.net/profile/Nishat-Tasnim-35)
 
 </div>
 
 <div align="center">
-  <img src="https://github.com/0xAshik/GitubSVGs/blob/main/grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/0xAshik/GitubSVGs/blob/main/grid-snake.svg" alt="snake" width="355"/>
 </div>
