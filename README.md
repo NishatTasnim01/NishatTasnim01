@@ -24,7 +24,7 @@
 I am a **Master's student in Computer Science & Engineering** and a researcher working at the intersection of Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, and Federated Learning. My research focuses on developing **privacy-preserving and intelligent AI systems**, particularly for healthcare applications.
 
 * 🎓 **M.Sc. in Computer Science & Engineering** — University of Asia Pacific *(In Progress)*
-* 🎓 **B.Sc. in Computer Science & Engineering** — University of Asia Pacific *(CGPA 3.93/4.00, Joint 6th of 114 graduates)*
+* 🎓 **B.Sc. in Computer Science & Engineering** — University of Asia Pacific *(CGPA 3.93/4.00, 6th of 114 graduates)*
 * 👩‍🏫 **Current Role:** Teaching Assistant, Department of CSE, University of Asia Pacific
 * 📝 **Publications:** 4 works (book chapters & journal article) on AI/ML applications in healthcare and beyond
 * 🤝 **Open to:** Research assistant opportunities and collaborations with experienced researchers on AI/ML projects
