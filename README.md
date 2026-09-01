@@ -25,7 +25,6 @@ I am a Computer Science & Engineering graduate from the **University of Asia Pac
 
 - 🎓 **Education:** B.Sc. in Computer Science & Engineering, University of Asia Pacific — CGPA 3.93/4.00, Joint 6th of 114 graduates
 - 👩‍🏫 **Current Role:** Teaching Assistant, Department of CSE, University of Asia Pacific
-- 🔬 **Research:** Research Assistant, Advanced Machine Intelligence Research (AMIR) Lab
 - 📝 **Publications:** 4 works (book chapters & journal article) on AI/ML applications in healthcare and beyond
 - 🤝 **Open to** research assistant opportunities under experienced mentors on AI/ML projects
 
