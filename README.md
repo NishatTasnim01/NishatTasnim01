@@ -38,12 +38,11 @@ I am a Computer Science & Engineering graduate from the **University of Asia Pac
 
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-2E86DE?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-2E86DE?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-2E86DE?style=flat-square)
 ![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-2E86DE?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2E86DE?style=flat-square)
 ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-2E86DE?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-2E86DE?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-2E86DE?style=flat-square)
-![Privacy-Preserving AI](https://img.shields.io/badge/-Privacy--Preserving%20AI-2E86DE?style=flat-square)
 
 </div>
 
