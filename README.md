@@ -23,7 +23,7 @@
 
 I am a **Master’s student in Computer Science & Engineering** and a researcher working at the intersection of Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, and Federated Learning. My research focuses on developing **privacy-preserving and intelligent AI systems**, particularly for healthcare applications.
 
-* 🎓 **Education:** MSc in Computer Science & Engineering — Currently pursuing
+* 🎓 **Education:** M.Sc. in Computer Science & Engineering — Currently pursuing
 * 🎓 **Previous Education:** B.Sc. in Computer Science & Engineering, University of Asia Pacific
 * 👩‍🏫 **Current Role:** Teaching Assistant, Department of CSE, University of Asia Pacific
 * 📝 **Publications:** 4 works (book chapters & journal article) on AI/ML applications in healthcare and beyond
