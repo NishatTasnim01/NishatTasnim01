@@ -128,7 +128,7 @@ I am a Computer Science & Engineering graduate from the **University of Asia Pac
 <div align="center">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NishatTasnim01&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=transparent&count_private=true" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatTasnim01&theme=transparent" alt="GitHub Streak" width="355"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishatTasnim01&theme=transparent" alt="GitHub Streak" width="400"/>
 </div>
 
 <br>
