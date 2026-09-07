@@ -114,7 +114,7 @@ I am a **Master's student in Computer Science & Engineering** and a researcher w
 | [Exploring Feature Selection Techniques in Predicting Indian Household Electricity Consumption](https://www.researchgate.net/publication/394373689_Exploring_Feature_Selection_Techniques_in_Predicting_Indian_Household_Electricity_Consumption)                                                                            | Book Chapter                    | Aug 2025     |
 | [From Centralization to Decentralization: Blockchain's Role in Transforming Social Media Platforms](https://www.researchgate.net/publication/390852939_From_Centralization_to_Decentralization_Blockchain's_Role_in_Transforming_Social_Media_Platforms)                                                                     | Journal Article — *IEEE Access* | Jan 2025     |
 
-📊 4 publications · 14 citations. Full list with co-authors available on [ResearchGate](https://www.researchgate.net/profile/Nishat-Tasnim-35) and [Google Scholar](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en).
+📊 4 publications · 15 citations. Full list with co-authors available on [ResearchGate](https://www.researchgate.net/profile/Nishat-Tasnim-35) and [Google Scholar](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en).
 
 <br>
 
