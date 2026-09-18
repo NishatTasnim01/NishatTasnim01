@@ -68,7 +68,7 @@ def main() -> None:
     citation_count = fetch_citation_count(AUTHOR_ID, api_key)
     print(f"Fetched current citation count: {citation_count}")
 
-    svg = render_badge_svg("citations", str(citation_count))
+    svg = render_badge_svg(str(citation_count, "Citations"))
     with open(OUTPUT_SVG, "w", encoding="utf-8") as f:
         f.write(svg)
     print(f"Wrote badge to {OUTPUT_SVG}")
