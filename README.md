@@ -121,7 +121,7 @@ I am a **Master's student in Computer Science & Engineering** and a researcher w
   GitHub can't run JS in a README, so this "auto-refresh" model -- a scheduled bot commit --
   is the closest thing to real time that a static markdown page supports.
 -->
-📊 4 publications · ![Citations](https://raw.githubusercontent.com/NishatTasnim01/NishatTasnim01/main/citation_badge.svg) citations (auto-updated every 12h). Full list with co-authors available on [ResearchGate](https://www.researchgate.net/profile/Nishat-Tasnim-35) and [Google Scholar](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en).
+📊 4 publications · ![Citations](https://raw.githubusercontent.com/NishatTasnim01/NishatTasnim01/main/citation_badge.svg) (auto-updated every 12h). Full list with co-authors available on [ResearchGate](https://www.researchgate.net/profile/Nishat-Tasnim-35) and [Google Scholar](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en).
 
 <br>
 
