@@ -1,34 +1,76 @@
 """
 Regenerates a Google Scholar citation-count badge (SVG) for this profile.
-
-Why this exists:
-Google Scholar has no official API, and shields.io can't query it directly.
-This script uses the open-source `gsbg` (Google Scholar Badge Generator)
-package to scrape the current total citation count from a Scholar profile
-and render it as an SVG badge, which is then committed to the repo by the
-accompanying GitHub Actions workflow on a schedule.
-
-Run manually with:  pip install gsbg && python scripts/update_citation_badge.py
 """
 
-import gsbg
+import os
+import sys
 
-# Nishat Tasnim's Google Scholar profile
-SCHOLAR_PROFILE_URL = "https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en"
+import requests
 
-# Output path -- referenced directly by README.md via a raw.githubusercontent.com link
+# The "user=" value from the Scholar profile URL
+AUTHOR_ID = "GBP9LAMAAAAJ"
+
 OUTPUT_SVG = "citation_badge.svg"
+
+# Matches the README's accent color
+BADGE_COLOR = "#2E86DE"
+LABEL_COLOR = "#555555"
+
+
+def fetch_citation_count(author_id: str, api_key: str) -> int:
+    response = requests.get(
+        "https://serpapi.com/search",
+        params={
+            "engine": "google_scholar_author",
+            "author_id": author_id,
+            "api_key": api_key,
+        },
+        timeout=30,
+    )
+    response.raise_for_status()
+    data = response.json()
+
+    status = data.get("search_metadata", {}).get("status")
+    if status != "Success":
+        raise RuntimeError(f"SerpApi search did not succeed: {data.get('search_metadata')}")
+
+    try:
+        return int(data["cited_by"]["table"][0]["citations"]["all"])
+    except (KeyError, IndexError, ValueError) as exc:
+        raise RuntimeError(f"Unexpected SerpApi response shape: {data}") from exc
+
+
+def render_badge_svg(label: str, value: str) -> str:
+    # Rough monospace-ish width estimate per character, close enough for a
+    # small text badge -- avoids pulling in a font-metrics library.
+    char_width = 6.5
+    pad = 10
+    label_width = int(len(label) * char_width + pad * 2)
+    value_width = int(len(value) * char_width + pad * 2)
+    total_width = label_width + value_width
+
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{total_width}" height="20">
+  <rect width="{label_width}" height="20" fill="{LABEL_COLOR}"/>
+  <rect x="{label_width}" width="{value_width}" height="20" fill="{BADGE_COLOR}"/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,sans-serif" font-size="11">
+    <text x="{label_width / 2}" y="14">{label}</text>
+    <text x="{label_width + value_width / 2}" y="14">{value}</text>
+  </g>
+</svg>"""
 
 
 def main() -> None:
-    citation_count = gsbg.fetch_profile_citation_num(SCHOLAR_PROFILE_URL)
+    api_key = os.environ.get("SERPAPI_API_KEY")
+    if not api_key:
+        print("SERPAPI_API_KEY is not set.", file=sys.stderr)
+        sys.exit(1)
+
+    citation_count = fetch_citation_count(AUTHOR_ID, api_key)
     print(f"Fetched current citation count: {citation_count}")
 
-    gsbg.gene_citation_badge_svg(
-        link=SCHOLAR_PROFILE_URL,
-        link_type="profile",
-        svg_name=OUTPUT_SVG,
-    )
+    svg = render_badge_svg("citations", str(citation_count))
+    with open(OUTPUT_SVG, "w", encoding="utf-8") as f:
+        f.write(svg)
     print(f"Wrote badge to {OUTPUT_SVG}")
 
 
