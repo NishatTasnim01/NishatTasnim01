@@ -1,0 +1,42 @@
+name: Update Google Scholar Citation Badge
+
+on:
+  schedule:
+    # Every 12 hours. Google Scholar counts don't change fast, so this is
+    # already more frequent than needed -- tune to '0 0 * * *' (daily) if
+    # you'd rather cut down on Action minutes.
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install GSBG
+        run: pip install gsbg
+
+      - name: Regenerate citation badge
+        run: python scripts/update_citation_badge.py
+
+      - name: Commit and push if the badge changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add citation_badge.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh Google Scholar citation badge [skip ci]"
+            git push
+          else
+            echo "No change in citation count -- nothing to commit."
+          fi
