@@ -23,10 +23,12 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install GSBG
-        run: pip install gsbg
+      - name: Install dependencies
+        run: pip install requests
 
       - name: Regenerate citation badge
+        env:
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
         run: python scripts/update_citation_badge.py
 
       - name: Commit and push if the badge changed
