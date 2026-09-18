@@ -114,7 +114,14 @@ I am a **Master's student in Computer Science & Engineering** and a researcher w
 | [Exploring Feature Selection Techniques in Predicting Indian Household Electricity Consumption](https://www.researchgate.net/publication/394373689_Exploring_Feature_Selection_Techniques_in_Predicting_Indian_Household_Electricity_Consumption)                                                                            | Book Chapter                    | Aug 2025     |
 | [From Centralization to Decentralization: Blockchain's Role in Transforming Social Media Platforms](https://www.researchgate.net/publication/390852939_From_Centralization_to_Decentralization_Blockchain's_Role_in_Transforming_Social_Media_Platforms)                                                                     | Journal Article — *IEEE Access* | Jan 2025     |
 
-📊 4 publications · 15 citations. Full list with co-authors available on [ResearchGate](https://www.researchgate.net/profile/Nishat-Tasnim-35) and [Google Scholar](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en).
+<!--
+  Live-updating citation badge. citation_badge.svg is regenerated every 12h by
+  .github/workflows/update-scholar-citations.yml (see scripts/update_citation_badge.py),
+  which scrapes the total from the Google Scholar profile below and commits the SVG.
+  GitHub can't run JS in a README, so this "auto-refresh" model -- a scheduled bot commit --
+  is the closest thing to real time that a static markdown page supports.
+-->
+📊 4 publications · ![Citations](https://raw.githubusercontent.com/NishatTasnim01/NishatTasnim01/main/citation_badge.svg) citations (auto-updated every 12h). Full list with co-authors available on [ResearchGate](https://www.researchgate.net/profile/Nishat-Tasnim-35) and [Google Scholar](https://scholar.google.com/citations?user=GBP9LAMAAAAJ&hl=en).
 
 <br>
 
